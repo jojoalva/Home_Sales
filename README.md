@@ -19,7 +19,7 @@ You will need the following installations / coding skills to be able to replicat
 Google Colab, Python, PySpark
 
 ## Usage
-    Please download the colab document and open Google Colab. From here, run the cells in sequential order.
+    Please download the colab document and open it in Google Colab. From here, run the cells in sequential order.
     
 ## Credits
 Jo Alva <br>
